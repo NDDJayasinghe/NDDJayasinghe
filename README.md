@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Nirodha!
+# Hey there 👋 I'm Nirodha Jayasinghe!
 
 <h4 style="margin-top: 1000px;">Full-Stack Developer and Creative Content Producer</h4>
 
@@ -7,9 +7,8 @@
 - 🌍 Based in **Sri Lanka**, bringing creativity and code together.
 - 💻 Software developer and aspiring game developer, always learning something new.
 - 🛞 A car enthusiast with a deep love for all things automotive 🚘.
-- 📸 Photographer and videographer, capturing moments through **Nirodha Jayasinghe Photography**.
+- 💭 Currently learning data analytics and dataviz.
 - 📈 Founder of **NCX Sri Lanka**, offering media production and digital services.
-- 🎸 Guitarist, when I'm not coding or behind the lens 🎶.
 
 ---
 
