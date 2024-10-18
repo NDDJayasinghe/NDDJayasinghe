@@ -1,4 +1,4 @@
-# Hi there 👋 I'm ([Nirodha Jayasinghe!](https://github.com/NDDJayasinghe))
+# Hi there 👋 I'm Nirodha!
 
 I'm a **full-stack developer** and **creative content creator**, blending technology with creativity to build projects that inspire.
 
