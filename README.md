@@ -1,7 +1,6 @@
 # Hey there 👋 I'm Nirodha!
 
 <h4 style="margin-top: 1000px;">Full-Stack Developer and Creative Content Producer</h4>
----
 
 ### 🚀 About Me
 
