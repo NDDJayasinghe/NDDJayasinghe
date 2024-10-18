@@ -10,6 +10,7 @@
 - 💭 Currently learning data analytics and dataviz.
 - 📈 Founder of **NCX Sri Lanka**, offering media production and digital services.
 
+![](https://github-readme-stats.vercel.app/api?username=nddjayasinghe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
 
