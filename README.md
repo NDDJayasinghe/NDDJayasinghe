@@ -1,7 +1,6 @@
-# Hi there 👋 I'm Nirodha!
+# Hey there 👋 I'm Nirodha!
 
-I'm a **full-stack developer** and **creative content creator**, blending technology with creativity to build projects that inspire.
-
+**Full-Stack Developer and Creative Content Producer**
 ---
 
 ### 🚀 About Me
