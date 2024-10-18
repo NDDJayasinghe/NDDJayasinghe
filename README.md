@@ -9,9 +9,7 @@
 - 🛞 A car enthusiast with a deep love for all things automotive 🚘.
 - 💭 Currently learning data analytics and dataviz.
 - 📈 Founder of **NCX Sri Lanka**, offering media production and digital services.
-
-![](https://github-readme-stats.vercel.app/api?username=nddjayasinghe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+- 
 ---
 
 ### 🛠 Tech Stack & Skills
