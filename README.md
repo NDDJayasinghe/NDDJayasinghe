@@ -10,9 +10,6 @@
 - 💭 Currently learning data analytics and dataviz.
 - 📈 Founder of **NCX Sri Lanka**, offering media production and digital services.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nddjayasinghe&show_icons=true&locale=en&layout=compact" alt="nddjayasinghe" /></p>
-<br>
-
 
 ---
 
@@ -38,9 +35,6 @@
 - **Twitter**: [@nj2124](https://twitter.com/Nj2124)
 
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nddjayasinghe&show_icons=true&locale=en" alt="nddjayasinghe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nddjayasinghe&" alt="nddjayasinghe" /></p>
 
 > “Keep moving forward, one line of code at a time.”
 
