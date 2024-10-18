@@ -10,8 +10,6 @@
 - 💭 Currently learning data analytics and dataviz.
 - 📈 Founder of **NCX Sri Lanka**, offering media production and digital services.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nddjayasinghe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 ### 🛠 Tech Stack & Skills
@@ -19,6 +17,8 @@
 - **Languages**: JavaScript, TypeScrip, HTML, CSS, Python
 - **Frameworks & Tools**: Electron, React, Node.js, Electron Forge
 - **Interests**: Web Development, Game Development, 3D Modeling, Media Production
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nddjayasinghe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
