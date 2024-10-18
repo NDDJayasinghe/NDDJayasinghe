@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Nirodha Jayasinghe! ([@NDDJayasinghe](https://github.com/NDDJayasinghe))
+# Hi there 👋 I'm ([Nirodha Jayasinghe!](https://github.com/NDDJayasinghe))
 
-Welcome to my digital garage 🚗, where I craft code, create content, and share my passions!
+I'm a **full-stack developer** and **creative content creator**, blending technology with creativity to build projects that inspire.
 
 ---
 
@@ -17,17 +17,9 @@ Welcome to my digital garage 🚗, where I craft code, create content, and share
 
 ### 🛠 Tech Stack & Skills
 
-- **Languages**: JavaScript, HTML, CSS, Python
+- **Languages**: JavaScript, TypeScrip, HTML, CSS, Python
 - **Frameworks & Tools**: Electron, React, Node.js, Electron Forge
-- **Interests**: Web Development, Game Development, 3D Modeling, Photography, Media Production
-
----
-
-### 🚗 Projects & Passions
-
-- **Wheels N Media** 🏎️: A blog dedicated to all things automotive, with a focus on old and rare vehicles.
-- **AeroVortex** ✈️: YouTube channel focused on aviation.
-- **Shiftspark** 🔥: Car culture facts and short-format content on YouTube.
+- **Interests**: Web Development, Game Development, 3D Modeling, Media Production
 
 ---
 
