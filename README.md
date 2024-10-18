@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Nirodha!
 
-**Full-Stack Developer and Creative Content Producer**
+Full-Stack Developer and Creative Content Producer
 ---
 
 ### 🚀 About Me
